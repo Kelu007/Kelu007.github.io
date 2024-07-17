@@ -41,7 +41,7 @@ author_profile: true
 
 <li>
 <p><b>MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation</b>
-<br />Xiaofeng Mao*, Zhengkai Jiang*, <strong>Qilin Wang<strong>, Chencan Fu, Jiangning Zhang, Jiafu Wu, Yabiao Wang, Chengjie Wang, Wei Li, Mingnin Chi<sup>#</sup>
+<br />Xiaofeng Mao*, Zhengkai Jiang*, <strong>Qilin Wang</strong>, Chencan Fu, Jiangning Zhang, Jiafu Wu, Yabiao Wang, Chengjie Wang, Wei Li, Mingnin Chi<sup>#</sup>
 <br /> ACM MM, 2024. 
 <br />
   <a href="https://kelu007.github.io/publications/">Paper</a>
