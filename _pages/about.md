@@ -31,7 +31,7 @@ I'm currently a first-year Ph.D. student in the School of Computer Science, Peki
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/paper_2025_VividPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation](https://arxiv.org/pdf/2405.18156)
+[VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation](https://arxiv.org/abs/2405.18156)
 
 **Qilin Wang\***, Zhengkai Jiang\*, Chengming Xu, Jiangning Zhang, Yabiao Wang, Xinyi Zhang, Yun Cao, Weijian Cao, Chengjie Wang, Yanwei Fu<sup>†</sup>
 
