@@ -25,3 +25,10 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Ruby 3.4+ compatibility - these were removed from default gems
+gem "csv"
+gem "logger"
+gem "ostruct"
+gem "base64"
+gem "bigdecimal"
