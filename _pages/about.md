@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋  Hi, I'm Qilin Wang(王麒麟), currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to advance the frontier of human-centered generative models that bridge perception, reasoning, and creation.
+👋  Hi, I'm Qilin Wang, currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to advance the frontier of human-centered generative models that bridge perception, reasoning, and creation.
 
 
 <!-- # 🔥 News
