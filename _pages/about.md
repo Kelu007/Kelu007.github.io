@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a first-year Ph.D. student in the School of Computer Science, Peking University, supervised by [Prof. Hao Tang](https://ha0tang.github.io/). My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to advance the frontier of human-centered generative models that bridge perception, reasoning, and creation.
+👋  Hi, I'm Qilin Wang(王麒麟), currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to advance the frontier of human-centered generative models that bridge perception, reasoning, and creation.
 
 
 <!-- # 🔥 News
@@ -83,8 +83,8 @@ Fudan University, Tencent
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 📖 Educations
-- <img src="images/pku_logo.png" alt="PKU" style="height:1.2em; vertical-align:middle;"> *2025.09 - 2029.06*, Ph.D. advised by [Prof. Hao Tang](https://ha0tang.github.io/) in School of Computer Science, Peking University, Beijing, China. 
-- <img src="images/fdu_logo.png" alt="FDU" style="height:1.2em; vertical-align:middle;"> *2022.09 - 2025.06*, M.S. advised by [Prof. Yanwei Fu](https://yanweifu.github.io/) in School of Data Science, Fudan University, Shanghai, China.  
+- <img src="images/pku_logo.png" alt="PKU" style="height:1.2em; vertical-align:middle;"> *2025.09 - 2029.06*, Ph.D. advised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in School of Computer Science, Peking University, Beijing, China. 
+- <img src="images/fdu_logo.png" alt="FDU" style="height:1.2em; vertical-align:middle;"> *2022.09 - 2025.06*, M.S. advised by [Prof. Yanwei Fu](https://scholar.google.com/citations?user=Vg54TcsAAAAJ&hl=zh-CN) in School of Data Science, Fudan University, Shanghai, China.  
 - <img src="images/whu_logo.png" alt="WHU" style="height:1.2em; vertical-align:middle;"> *2018.09 - 2022.06*, B.E. in School of Computer Science, Wuhan University, Wuhan, China.
 
 # 💻 Internships
@@ -97,3 +97,6 @@ Fudan University, Tencent
 - Samsung Scholarship, Samsung
 - Outstanding Graduate & Zhicheng Scholarship & Graduate Academic Scholarship, Fudan University
 - Outstanding Graduate & Merit Student & Undergraduate Academic Scholarship, Wuhan University
+
+# 🎨 Miscellaneous
+Outside of research, I enjoy exploring the world through **traveling** 🏖️ and **photography** 📸, capturing the beauty of different cultures and moments. I'm also passionate about **theatre** 🎭 and **films** 🎬, which inspire my creativity and storytelling sense. In my spare time, I love playing **badminton** 🏸 and **swimming** 🏊 to stay active and energized.
