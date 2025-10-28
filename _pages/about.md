@@ -93,10 +93,10 @@ Fudan University, Tencent
 - <img src="images/tencent_logo.png" alt="tencent" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2023.06 - 2024.09*, Youtu Lab, Tencent.
 
 # 🎖 Honors and Awards
-- National Scholarship, Ministry of Education of China
-- Samsung Scholarship, Samsung
-- Outstanding Graduate & Zhicheng Scholarship & Graduate Academic Scholarship, Fudan University
-- Outstanding Graduate & Merit Student & Undergraduate Academic Scholarship, Wuhan University
+- National Scholarship, Ministry of Education of China.
+- Samsung Scholarship, Samsung.
+- Outstanding Graduate & Zhicheng Scholarship & Graduate Academic Scholarship, Fudan University.
+- Outstanding Graduate & Merit Student & Undergraduate Academic Scholarship, Wuhan University.
 
 # 🎨 Miscellaneous
 Outside of research, I enjoy exploring the world through **traveling** 🏖️ and **photography** 📸, capturing the beauty of different cultures and moments. I'm also passionate about **theatre** 🎭 and **films** 🎬, which inspire my creativity and storytelling sense. In my spare time, I love playing **badminton** 🏸 and **swimming** 🏊 to stay active and energized.
