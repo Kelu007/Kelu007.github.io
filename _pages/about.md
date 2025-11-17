@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋  Hi, I'm Qilin Wang, currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to advance the frontier of human-centered generative models that bridge perception, reasoning, and creation.
+👋  Hi, I'm Qilin Wang, currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to leverage AI to create an entire movie, exploring how advanced generative models can drive end-to-end cinematic creativity.
 
 
 <!-- # 🔥 News
@@ -99,4 +99,4 @@ Fudan University, Tencent
 - Outstanding Graduate & Merit Student & Undergraduate Academic Scholarship, Wuhan University.
 
 # 🎨 Miscellaneous
-Outside of research, I enjoy exploring the world through **traveling** 🏖️ and **photography** 📸, capturing the beauty of different cultures and moments. I'm also passionate about **theatre** 🎭 and **films** 🎬, which inspire my creativity and storytelling sense. In my spare time, I love playing **badminton** 🏸 and **swimming** 🏊 to stay active and energized.
+Outside of research, I enjoy exploring the world through **traveling** 🏖️ and **photography** 📸, capturing the beauty of different cultures and moments. I'm also passionate about **theatre** 🎭 and **films** 🎬, which inspire my creativity and narrative thinking. In my spare time, I love playing **badminton** 🏸 and **swimming** 🏊 to stay active and energized.
