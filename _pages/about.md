@@ -28,7 +28,7 @@ redirect_from:
 
 \* Equal contribution, † Corresponding author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/paper_2025_VividPose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='images/paper_2025_VividPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation](https://arxiv.org/abs/2405.18156)
