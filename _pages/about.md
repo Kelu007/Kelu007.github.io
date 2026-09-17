@@ -101,7 +101,7 @@ Fudan University, Tencent
 
 # 💻 Internships
 <!-- - <img src="images/huawei_logo.png" alt="huawei" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.09 - Present*, 2012 Lab, Huawei. -->
-- <img src="images/ant_logo.png" alt="ant" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.05 - 2025.08*, BaiLing MLLM Team, Ant Group.
+- <img src="images/ant_logo.png" alt="ant" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.05 - 2025.08*, Bailing MLLM Team, Ant Group.
 - <img src="images/tencent_logo.png" alt="tencent" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2023.06 - 2024.09*, Youtu Lab, Tencent.
 
 # 🎖 Honors and Awards
