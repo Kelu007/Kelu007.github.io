@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋  Hi, I'm Qilin Wang, currently a first-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **multimodal large language models (MLLMs)** and **AI-generated content (AIGC)**. Broadly, I am fascinated by how multimodal understanding and generative intelligence can be unified to create realistic, controllable digital humans and intelligent agents. My long-term goal is to leverage AI to create an entire movie, exploring how advanced generative models can drive end-to-end cinematic creativity.
+👋  Hi, I'm Qilin Wang, currently a second-year Ph.D. student supervised by [Prof. Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=9zJkeEMAAAAJ) in the School of Computer Science, Peking University. My research interests lie in **Video Generation** and **World Model**. I am fascinated by the possibility of learning how the world works through video. My long-term goal is to develop generative world models that can imagine possible futures and respond to human input in real time, enabling interactive filmmaking and game creation. I also hope these models can provide a foundation for agents to reason, plan, and learn through simulated experience.
 
 
 <!-- # 🔥 News
@@ -27,6 +27,18 @@ redirect_from:
 # 📝 Publications 
 
 \* Equal contribution, † Corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/paper_2026_VibeAvatar.png' alt="VibeAvatar" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis](https://arxiv.org/abs/2609.18632)
+
+**Qilin Wang**, Mingyu Li, Hao Tang<sup>†</sup>
+
+Peking University
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='images/paper_2025_VividPose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +64,7 @@ Fudan University, Tencent, Nanjing University, Zhejiang University, VIVO
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/paper_2024_MDT-A2G.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/paper_2024_MDT-A2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation](https://arxiv.org/abs/2408.03312)
@@ -89,7 +101,7 @@ Fudan University, Tencent
 
 # 💻 Internships
 <!-- - <img src="images/huawei_logo.png" alt="huawei" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.09 - Present*, 2012 Lab, Huawei. -->
-- <img src="images/ant_logo.png" alt="ant" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.05 - 2025.08*, BaiLing LLM Team, Ant Group.
+- <img src="images/ant_logo.png" alt="ant" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2025.05 - 2025.08*, BaiLing MLLM Team, Ant Group.
 - <img src="images/tencent_logo.png" alt="tencent" style="width:1.2em; height:1.2em; object-fit:contain; vertical-align:middle;"> *2023.06 - 2024.09*, Youtu Lab, Tencent.
 
 # 🎖 Honors and Awards
